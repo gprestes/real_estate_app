@@ -19,7 +19,7 @@ gem 'uglifier',     '2.7.2'
 gem 'coffee-rails', '4.1.0'
 gem 'jquery-rails', '3.1.3'
 gem 'turbolinks',   '2.5.2'
-gem 'jbuilder',     '2.2.5'
+gem 'jbuilder',     '2.9.1'
 gem 'activeresource'
 
 group :doc do
