@@ -151,7 +151,7 @@ GEM
       sprockets (> 3.0)
       sprockets-rails
       tilt
-    sdoc (1.0.0)
+    sdoc (1.1.0)
       rdoc (>= 5.0)
     selenium-webdriver (3.141.0)
       childprocess (~> 0.5)
@@ -191,7 +191,7 @@ DEPENDENCIES
   rails_12factor (= 0.0.3)
   rspec-rails (= 4.0.0)
   sass-rails (= 6.0.0)
-  sdoc (= 1.0.0)
+  sdoc (= 1.1.0)
   selenium-webdriver (= 3.141.0)
   sqlite3 (= 1.4.2)
   turbolinks (= 5.2.1)
