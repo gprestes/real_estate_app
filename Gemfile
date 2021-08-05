@@ -11,7 +11,7 @@ end
 
 group :test do
   gem 'selenium-webdriver', '3.141.0'
-  gem 'capybara',           '2.18.0'
+  gem 'capybara',           '3.35.3'
 end
 
 gem 'sass-rails',   '6.0.0'
