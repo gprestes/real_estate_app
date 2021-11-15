@@ -10,8 +10,8 @@ end
 
 
 group :test do
-  gem 'selenium-webdriver', '3.142.7'
-  gem 'capybara',           '3.35.3'
+  gem 'selenium-webdriver', '4.0.3'
+  gem 'capybara',           '3.36.0'
 end
 
 gem 'sass-rails',   '6.0.0'
