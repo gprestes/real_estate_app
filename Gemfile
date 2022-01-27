@@ -5,7 +5,7 @@ gem 'rails', '6.1.4.1'
 
 group :development, :test do
   gem 'sqlite3',     '1.4.2'
-  gem 'rspec-rails', '5.0.2'
+  gem 'rspec-rails', '5.1.0'
 end
 
 
