@@ -23,7 +23,7 @@ gem 'jbuilder',     '2.11.5'
 gem 'activeresource'
 
 group :doc do
-  gem 'sdoc', '2.3.1', require: false
+  gem 'sdoc', '2.3.2', require: false
 end
 
 group :production do
