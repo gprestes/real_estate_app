@@ -10,7 +10,7 @@ end
 
 
 group :test do
-  gem 'selenium-webdriver', '4.21.1'
+  gem 'selenium-webdriver', '4.22.0'
   gem 'capybara',           '3.40.0'
 end
 
