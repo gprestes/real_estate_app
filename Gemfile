@@ -4,7 +4,7 @@ ruby '3.3.4'
 gem 'rails', '7.2.0'
 
 group :development, :test do
-  gem 'sqlite3',     '2.0.3'
+  gem 'sqlite3',     '2.0.4'
   gem 'rspec-rails', '6.1.3'
 end
 
