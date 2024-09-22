@@ -15,7 +15,7 @@ group :test do
 end
 
 gem 'sass-rails',   '6.0.0'
-gem 'uglifier',     '4.2.0'
+gem 'uglifier',     '4.2.1'
 gem 'coffee-rails', '5.0.0'
 gem 'jquery-rails', '4.6.0'
 gem 'turbolinks',   '5.2.1'
